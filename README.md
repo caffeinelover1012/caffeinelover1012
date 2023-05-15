@@ -1,4 +1,5 @@
-### Hi there 👋I'm Shubh, a versatile software developer proficient in multiple programming languages, specifically passionate in Full-Stack Application Development and Machine Learning.
+### Hi there 👋I'm Shubh.
+##I am a versatile software developer proficient in multiple programming languages, specifically passionate in Full-Stack Application Development and Machine Learning.
 
 <!--
 **caffeinelover1012/caffeinelover1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
