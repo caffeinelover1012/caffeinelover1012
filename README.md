@@ -1,4 +1,4 @@
-## Hi there 👋I'm Shubh.                                               <p align="right"> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcaffeinelover1012&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)</p>
+## Hi there 👋I'm Shubh.<div style="text-align: right"> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcaffeinelover1012&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) </div> 
 #### I am a versatile software developer proficient in multiple programming languages, specifically passionate in Full-Stack Application Development and Machine Learning.
 
 ## Professional Experience 💼
