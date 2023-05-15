@@ -1,6 +1,6 @@
 ## Hi there 👋I'm Shubh.
 #### I am a versatile software developer proficient in multiple programming languages, specifically passionate in Full-Stack Application Development and Machine Learning.
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=caffeinelover1012&theme=dark&border_radius=5)](https://git.io/streak-stats)
+
 ## Professional Experience 💼
 
 **Software Engineering Intern** at Smartsheet Inc. (May 2023 - Present)
