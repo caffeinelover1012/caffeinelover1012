@@ -3,6 +3,8 @@
 
 ## Professional Experience 💼
 
+**Undergraduate Research Assistant** at DMML ASU (Jul 2023 - Present)
+
 **Software Engineering Intern** at Smartsheet Inc. (May 2023 - Present)
 
 **Machine Learning Research Assistant Intern** at W.P. Carey Morrison School of Agribusiness · ASU (Jan 2023 - Present)
