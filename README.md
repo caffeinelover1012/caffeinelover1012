@@ -3,6 +3,8 @@
 
 ## Professional Experience 💼
 
+**Software Engineer** at Smartsheet Inc. (Jul 2024 - Present)
+
 **Undergraduate Research Assistant** at DMML ASU (Jul 2023 - Present)
 
 **Software Engineering Intern** at Smartsheet Inc. (May 2023 - Present)
