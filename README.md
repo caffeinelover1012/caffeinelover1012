@@ -1,4 +1,4 @@
-## Hi there 👋I'm Shubh.<div>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcaffeinelover1012&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)</div>
+## Hi there 👋I'm Shubh.
 #### I am a versatile software developer proficient in multiple programming languages, specifically passionate in Full-Stack Application Development and Machine Learning.
 
 ## Professional Experience 💼
@@ -26,10 +26,10 @@
 
 Languages: Python, Java, C/C++, HTML, CSS, JavaScript, SQL, Dart, MATLAB
 
-Tools/Frameworks: Django, Node.js, React, Flask, AWS, Linux, Git, Flutter, MVC, Docker, ML/AI
+Tools/Frameworks: Django, Spring Boot, Node.js, React, Flask, AWS, Linux, Git, Flutter, MVC, Docker, ML/AI
 
 ---
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/shubhk7/) or check out my [Resume](https://bit.ly/shubhres2023) for more information.
 
-📧 You can also reach me at [skfb1012@gmail.com](mailto:skfb1012@gmail.com).
+📧 You can also reach me at [shubhvk10@gmail.com](mailto:shubhvk10@gmail.com).
